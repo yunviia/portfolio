@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋 I'm Gayoon</h1>
 <p align="center">
-Frontend · Android · Backend — Learning & Growing 🌙
-</p>
+
 
 ---
 
